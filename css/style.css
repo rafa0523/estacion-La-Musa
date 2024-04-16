@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color:black;
+    margin-left: 20px;
+    text-align: center;
+}
+
+p1 {
+    color: black;
+    margin-left: 10px;
+    text-align: left;
+}
+
+h2 {
+    color:black;
+    margin-left: 20px;
+    text-align: center;
+}
+
+p{
+    color: black;
+}
+
+#j23{
+    color: black;
+}
+
+h3 {
+    color: black;
+    margin-left: 20px
+}
